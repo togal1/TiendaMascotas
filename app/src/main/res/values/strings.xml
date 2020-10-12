@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TiendaDeMascotas</string>
+    <string name="pnombre">Manola</string>
+    <string name="favoritos">FAVORITOS</string>
+    <string name="likes">likes</string>
+    <string name="autor">Lorena Gallas</string>
+    <string name="menu_nosotros">Nosotros</string>
+    <string name="menu_favoritos">Favoritos</string>
+
+</resources>
